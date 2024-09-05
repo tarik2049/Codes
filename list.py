@@ -13,3 +13,4 @@ fruits = ["apple", "banana", "cherry"]
 fruits.append("orange")
 print(id(fruits))
 print(fruits)
+#This is a code about List.
